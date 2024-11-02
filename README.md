@@ -1,8 +1,9 @@
-# Project Title
-A brief description of your project, explaining its purpose and goals.
+# This is my test run of readme
+- Would then put a small description here 
 
 ## Description
-Provide a more detailed explanation of what the project does, the problem it solves, or its intended use.
-
+More desciption here 
 ## Installation
-List the steps required to install and set up the project on a local machine.
+Any steps to install 
+## Takeaway 
+use # like comments in r 
